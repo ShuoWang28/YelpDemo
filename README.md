@@ -1,7 +1,7 @@
 # YelpDemo
 
 This is an Yelp-Like website project using Node.js Framework, MVC pattern, deployed on Heroku.
-Link: [url]https://polar-mountain-17107.herokuapp.com/[/url]
+Link: https://polar-mountain-17107.herokuapp.com/
 
 ## Built With
 
@@ -14,6 +14,7 @@ Udemy
 
 ## Authors
 Colt Steele
+
 Shuo Wang
 
 ## Acknowledgments
